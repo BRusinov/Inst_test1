@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\vesse_000\AndroidStudioProjects\Inst_test1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\vesse_000\AndroidStudioProjects\Inst_test1\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-486b1a563e73ed1b31f1369dfdefe39b4155cd09.jar" />
+    </item>
+    <item
+        jar="C:\Users\vesse_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\vesse_000\AndroidStudioProjects\Inst_test1\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-a203ab4845e70f9dd5e8a776a99622dd57e5a5ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\vesse_000\AndroidStudioProjects\Inst_test1\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\vesse_000\AndroidStudioProjects\Inst_test1\app\build\intermediates\pre-dexed\debug\classes-b9a2d07e3f7632976106d5c8b49d9dcb5471fb73.jar" />
+    </item>
+    <item
+        jar="C:\Users\vesse_000\AndroidStudioProjects\Inst_test1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\vesse_000\AndroidStudioProjects\Inst_test1\app\build\intermediates\pre-dexed\debug\classes-e827393e4b726264190a6081f18997f35f6f8f80.jar" />
+    </item>
+    <item
+        jar="C:\Users\vesse_000\AndroidStudioProjects\Inst_test1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\vesse_000\AndroidStudioProjects\Inst_test1\app\build\intermediates\pre-dexed\debug\classes-9e94e0e990ae3c625966e72246192fbffe0f9eda.jar" />
+    </item>
+
+</items>
